@@ -1,2 +1,2 @@
-basepoint='https://api.fda.gov/drug/label.json?search=active_ingredient'
+basepoint='https://api.fda.gov/drug/label.json?'
 endpoint='&limit=1'
